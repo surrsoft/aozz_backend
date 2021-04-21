@@ -1,6 +1,8 @@
 
+
 # notes
 * https://github.com/gothinkster/realworld/tree/master/api
+* token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJ1c2VyMSIsImVtYWlsIjoiZXZnZWJhci0xQG1haWwucnUiLCJleHAiOjE2MjQyMDU2MTkuNzkxLCJpYXQiOjE2MTkwMjE2MTl9.mgVkT7uxN_u8scwYDRYQR1vArNnOwP1brK2swQ1F8cc
 
 # ![Node/Express/Mongoose Example App](project-logo.png)
 
